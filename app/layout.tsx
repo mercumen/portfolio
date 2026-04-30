@@ -19,8 +19,8 @@ const monospace = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Muhit | Portfolio",
-  description: "Muhit'in projelerini, deneyimini ve iletişim bilgilerini sunan kişisel portfolio sayfasi.",
+  title: "Muhittin Ercument ",
+  description: "Portfolio"
 };
 
 export default function RootLayout({
